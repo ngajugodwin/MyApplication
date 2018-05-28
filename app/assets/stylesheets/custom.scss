@@ -103,3 +103,9 @@ footer {
 .developer-footer{
   color: black;
 }
+.btn{
+  background-color: green;
+  &:hover {
+      background-color: grey;
+    }
+}
